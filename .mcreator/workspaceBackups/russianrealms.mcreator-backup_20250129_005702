@@ -1,0 +1,37 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "SovietB",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "tile.sovietb.name": "Soviet Brick 1"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "russianrealms",
+    "modName": "Russian Realms",
+    "version": "1.0.0",
+    "author": "HP Pavilion, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.12.2",
+    "modElementsPackage": "net.mcreator.russianrealms",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000214217
+}

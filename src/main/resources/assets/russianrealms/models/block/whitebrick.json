@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "russianrealms:blocks/wool_colored_light_blue",
+    "particle": "russianrealms:blocks/wool_colored_light_blue"
+  }
+}
